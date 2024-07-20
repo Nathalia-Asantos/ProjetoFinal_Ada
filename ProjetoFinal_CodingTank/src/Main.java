@@ -20,6 +20,7 @@ public class Main {
             System.out.println("Salário Líquido: " + salarioLiquido);
             System.out.println("===============");
         }
+        sc.close();
     }
 
      // Calcula desconto INSS
